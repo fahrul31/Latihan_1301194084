@@ -3,3 +3,5 @@
 I Wayan Adi Wahyudi
 
 Disuruh edit biar ada aja perubahan
+
+nge pull gan
