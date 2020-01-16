@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    int i;
+
+    cout << "angka i = "<<i<< "\n";
+    return 0;
+}
